@@ -9,9 +9,18 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Persons</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Choose and action:</h1>
+        <p>
+            Chose an action to be done on table persoane:
+            <ul>
+                <li>
+                    Display the list of persons:
+                </li>
+
+            </ul>
+        </p>
     </body>
 </html>
